@@ -11,11 +11,7 @@ This is the placeholder package to initialize the [Milient](https://milientsoftw
   npx @milient/init
   ```
 
-  This will print:
-
-  ```
-  https://milientsoftware.com/
-  ```
+  This will print welcome log with url.
 
 - **As a module:**  
   If you import or require this package in your code, it will log an informational message with the website URL.

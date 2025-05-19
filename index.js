@@ -9,7 +9,7 @@ function brandLog(msg) {
 }
 
 brandLog('===============================================================');
-brandLog('   Welcome to Milient!                                         ');
-brandLog('   This is a placeholder package for Milient Software.         ');
+brandLog('   👋 Welcome to Milient!                                      ');
+brandLog('   This is a placeholder package for Milient Software AS       ');
 brandLog('   For more information, visit: https://milientsoftware.com/   ');
 brandLog('===============================================================');
